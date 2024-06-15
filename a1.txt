@@ -1,0 +1,4 @@
+================== This is Python class=========================My Name is Adnan Farooqui
+I Am from Bhopal MP
+I Did My Graduation From BSSS College Bhopal
+This is Append Mode
